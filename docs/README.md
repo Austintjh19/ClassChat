@@ -4,6 +4,10 @@
 
 ClassConnect is a comprehensive web application designed to foster seamless communication and collaboration among classmates.
 
+## Live Demo
+
+Watch the live demo of ClassConnect [here](https://youtu.be/lgJUs2IK-bo).
+
 ## Features
 
 - **Real-time Messaging**: Implemented a real-time messaging system enabling classmates to communicate effectively.
