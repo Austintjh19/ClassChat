@@ -1,6 +1,8 @@
 # ClassConnect
 
-![ClassConnect Screenshot 1](ClassConnect1.png) ![ClassConnect Screenshot 2](ClassConnect2.png)
+:-------------------------:|:-------------------------:
+![ClassConnect Screenshot 1](ClassConnect1.png) | ![ClassConnect Screenshot 2](ClassConnect2.png)
+
 
 ClassConnect is a comprehensive web application designed to foster seamless communication and collaboration among classmates.
 
